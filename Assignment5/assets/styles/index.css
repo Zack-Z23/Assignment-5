@@ -184,7 +184,7 @@ table tr .c-1 {
  
 table tr .c-2 {
     line-height: 90px;
-    width: 25%;
+    width: 24%;
 }
 
 table tr .c-6 {
@@ -194,7 +194,7 @@ table tr .c-6 {
 }
 
 .c-3, .c-4, .c-5, .c-6{
-    width: calc(62vw / 3.5 - 154px);
+    width: calc(62vw / 3.3 - 154px);
 }
  
 table tr+tr {
